@@ -1,4 +1,4 @@
-Hi there, I'm Vasko! 👋
+Hi there, my name's Vasko! 👋
 
 💻 Junior Web Developer | Passionate Learner
 
@@ -28,10 +28,6 @@ Welcome to my GitHub profile! I'm a Junior Web Developer with a strong passion f
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-I love exploring new technologies and best practices to write clean, efficient, and maintainable code. Every day is an opportunity to learn, grow, and contribute to the amazing developer community! 🚀
+I love exploring new technologies and best practices to write clean, efficient, and maintainable code. 
+Every day is an opportunity to learn, grow, and contribute to the amazing developer community! 🚀
 
-
-
-📫 Connect with me:
-
-Feel free to reach out or check out my projects. Let's connect and collaborate!
