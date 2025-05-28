@@ -1,6 +1,6 @@
 Hi there, my name's Vasko! 👋
 
-💻 Junior Web Developer | Passionate Learner
+💻 Junior Fullstack Developer | Passionate Learner
 
 Welcome to my GitHub profile! I'm a Junior Web Developer with a strong passion for building web applications and continuously improving my skills. I recently completed a 15-month academy, where I gained in-depth knowledge in various technologies, including:
 
